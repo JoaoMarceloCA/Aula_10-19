@@ -10,4 +10,6 @@ int main()
 
     printf("Ola %s!\n", nome);
     printf("Voce tem %d anos e tem %.2f de altura; e ganho %.3f de dinheiro", idade, altura, salario);
+
+    return 0;
 }
